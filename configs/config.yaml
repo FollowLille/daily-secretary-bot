@@ -1,0 +1,6 @@
+app_env: dev
+log_path: logs/app.log
+default_tz: Europe/Madrid
+summary_freq: daily
+read_timeout: 5s
+write_timeout: 5s
